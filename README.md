@@ -2,9 +2,10 @@
 
 Please use appropriate citation for the current pre-print article titled "D-CNN and VQ-VAE Autoencoders for Compression and Denoising of Industrial X-ray Computed Tomography Images"  
 
-The article is available on arXiv at https://arxiv.org/abs/2507.07704
+The article is available at: https://doi.org/10.3233/FAIA251480
 
-with DOI: https://doi.org/10.48550/arXiv.2507.07704  
+Also available on arXiv at: https://doi.org/10.48550/arXiv.2507.07704  
+
 
 <br>
 <br>
