@@ -1,6 +1,6 @@
 # XCT data of sandstone used for publication on industrial XCT data compression using AI
 
-Please use appropriate citation for the current pre-print article titled "D-CNN and VQ-VAE Autoencoders for Compression and Denoising of Industrial X-ray Computed Tomography Images"  
+Please use appropriate citation for the published article titled "D-CNN and VQ-VAE Autoencoders for Compression and Denoising of Industrial X-ray Computed Tomography Images"  
 
 The article is available at: https://doi.org/10.3233/FAIA251480
 
